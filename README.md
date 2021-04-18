@@ -20,10 +20,13 @@ Este proyecto tiene como objetivo desarrollar un sketch de menos de 1024 caráct
 
 ###### Animaciones
 - Puntos
+
 ![](puntos.png)
 - Barras verticales
+
 ![](verticales.png)
 - Barras horizontales
+
 ![](horizontales.png)
 
 ##### Corazones
