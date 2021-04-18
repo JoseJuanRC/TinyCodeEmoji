@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo desarrollar un sketch de menos de 1024 caráct
 
 ###### Animaciones
 - Iran cambiando entre ellas cada ciertos frames
-- Habrá una que vaya coloreando la figura y otras que limpien la pantalla.
+- Habrá algunas que vaya coloreando la figura y otras que limpien la pantalla.
 
 - Puntos
 
