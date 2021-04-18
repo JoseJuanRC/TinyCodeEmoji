@@ -34,7 +34,7 @@ Este proyecto tiene como objetivo desarrollar un sketch de menos de 1024 caráct
 
 ##### Corazones
 - Se utiliza la siguiente inecuación para saber si un punto se encuentra dentro del corazón:
-    -  (x^2^+y^2^-1)^3^ < x^2^+y^3^
+    -  (x^2+y^2-1)^3 < x^2+y^3
 - Se aplican distintos desplazamientos y rotaciones para obtener la forma deseada.
 
 ## Herramientas utilizadas
