@@ -19,7 +19,7 @@ Este proyecto tiene como objetivo desarrollar un sketch de menos de 1024 caráct
 - Se dibuja el emoji con un radio de 150 píxeles.
 
 ###### Animaciones
-- Iran cambiando entre ellas cada ciertos frames
+- Irán cambiando entre ellas cada ciertos frames.
 - Habrá algunas que vaya coloreando la figura y otras que limpien la pantalla.
 
 - Puntos
